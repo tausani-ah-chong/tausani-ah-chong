@@ -6,17 +6,17 @@ I am a Full Stack Software Developer with a passion for taking a meaningful idea
 
 - 🔭 I’m currently working on: 
 
-https://github.com/tausani-ah-chong/DevPortfolio
+  - DevPortfolio - WIP: https://github.com/tausani-ah-chong/DevPortfolio
 
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning: 
 
-TypeScript
+  - TypeScript
 
 - 📫 How to reach me: 
 
-linkedIn - https://www.linkedin.com/in/tausaniahchong/
-instagram - @apollo_45k
-email - tausani93@gmail.com
+  - linkedIn - https://www.linkedin.com/in/tausaniahchong/
+  - instagram - https://www.instagram.com/apollo_45k/
+  - email - tausani93@gmail.com
 
 
 <!--
