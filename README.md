@@ -1,6 +1,8 @@
 ### Hi there 👋
 
+- 😄 Pronouns: He/Him
 - 🔭 I’m currently working on https://github.com/tausani-ah-chong/DevPortfolio
+- 🌱 I’m currently learning TypeScript
 
 
 <!--
@@ -10,7 +12,6 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 -->
