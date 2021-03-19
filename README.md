@@ -7,7 +7,7 @@ I am a Full Stack Software Developer with a passion for taking a meaningful idea
 - 🔭 I’m currently working on: 
 
   - DevPortfolio, a hub where developers can hold their portfolios - WIP: https://github.com/tausani-ah-chong/DevPortfolio
-  - Static personal portfolio - WIP: https://github.com/tausani-ah-chong/tausani-portfolio
+  - Static personal portfolio - WIP: https://tausani-portfolio.vercel.app Source: https://github.com/tausani-ah-chong/tausani-portfolio
 
 - 🌱 I’m currently learning: 
 
