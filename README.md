@@ -8,11 +8,13 @@ I am a Full Stack Software Developer with a passion for taking a meaningful idea
 
   - DevPortfolio, a hub where developers can hold their portfolios - WIP: https://github.com/tausani-ah-chong/DevPortfolio
   - Static personal portfolio - WIP: https://tausani-portfolio.vercel.app Source: https://github.com/tausani-ah-chong/tausani-portfolio
+  - Python Practice - source: https://github.com/tausani-ah-chong/HelloPython
 
 - 🌱 I’m currently learning: 
 
   - TypeScript
   - Next.js
+  - Python
 
 - 📫 How to reach me: 
 
