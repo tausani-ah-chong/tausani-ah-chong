@@ -10,6 +10,7 @@ I am a Full Stack Software Developer with a passion for taking a meaningful idea
   - CRUD Todo App - source: https://github.com/tausani-ah-chong/todo-app-v2
   - Static personal portfolio - WIP: https://tausani-portfolio.vercel.app Source: https://github.com/tausani-ah-chong/tausani-portfolio
   - Python Practice - source: https://github.com/tausani-ah-chong/HelloPython
+  - Divvy - Personal Budgeting App, using React Native & TypeScript - source: https://github.com/tausani-ah-chong/divvy-react-native
 
 - 🌱 I’m currently learning: 
 
@@ -17,6 +18,7 @@ I am a Full Stack Software Developer with a passion for taking a meaningful idea
   - Next.js
   - MySQL
   - Python
+  - React Native
 
 - 📫 How to reach me: 
 
