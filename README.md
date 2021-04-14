@@ -7,7 +7,7 @@ I am a Full Stack Software Developer with a passion for taking a meaningful idea
 - 🔭 I’m currently working on: 
 
   - DevPortfolio, a hub where developers can hold their portfolios - WIP: https://github.com/tausani-ah-chong/DevPortfolio
-  - Divvy - Personal Budgeting App, using React Native & TypeScript - source: https://github.com/tausani-ah-chong/divvy-react-native
+  - divvy. - Personal Budgeting App, using React Native & TypeScript - source: https://github.com/tausani-ah-chong/divvy.
   - CRUD Todo App - source: https://github.com/tausani-ah-chong/todo-app-v2
   - Static personal portfolio - WIP: https://tausani-portfolio.vercel.app Source: https://github.com/tausani-ah-chong/tausani-portfolio
   - Python Practice - source: https://github.com/tausani-ah-chong/HelloPython
