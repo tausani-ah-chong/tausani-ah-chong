@@ -6,8 +6,8 @@
 
 - 🔭 I’m currently working on: 
 
-  - CRUD Todo App | NextJS, TypeScript, AWS (RDS) MySQL | source: https://github.com/tausani-ah-chong/todo-app-v2
   - divvy. | Personal Budgeting App | React Native & TypeScript | source: https://github.com/tausani-ah-chong/divvy
+  - CRUD Todo App | NextJS, TypeScript, AWS (RDS) MySQL | source: https://github.com/tausani-ah-chong/todo-app-v2
   - DevPortfolio | a hub where developers can hold their portfolios | WIP: https://github.com/tausani-ah-chong/DevPortfolio
   - Static personal portfolio | NextJS | WIP: https://tausani-portfolio.vercel.app | Source: https://github.com/tausani-ah-chong/tausani-portfolio
   - Python Practice | source: https://github.com/tausani-ah-chong/HelloPython
