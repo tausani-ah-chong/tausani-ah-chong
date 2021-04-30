@@ -1,4 +1,4 @@
-### Hey, hey! 👋
+### Talofa Lava! 👋
 
 ### I'm a proud Sāmoan 🇼🇸, Full Stack Software Developer 🧑‍💻 Hungry to make an impact on the World! 🌐
 
