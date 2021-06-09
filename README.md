@@ -14,10 +14,8 @@
 - 🌱 I’m currently learning: 
 
   - TypeScript
-  - Next.js
-  - MySQL
-  - AWS
   - React Native
+  - Redux Toolkit
 
 - 📫 How to reach me: 
 
