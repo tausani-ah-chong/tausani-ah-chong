@@ -4,13 +4,6 @@
 
 - 😄 Pronouns: He/Him
 
-- 🔭 I’m currently working on: 
-
-  - divvy. - A personal Budgeting App using React Native & TypeScript - source: https://github.com/tausani-ah-chong/divvy
-  - CRUD Todo App using NextJS, TypeScript, AWS & MySQL -  source: https://github.com/tausani-ah-chong/todo-app-v2
-  - DevPortfolio. using React, Redux, Express & TailwindCSS - WIP: https://github.com/tausani-ah-chong/DevPortfolio
-  - Personal portfolio using NextJS & TypeScript - WIP: https://tausani-portfolio.vercel.app Source: https://github.com/tausani-ah-chong/tausani-portfolio
-
 - 🌱 I’m currently learning: 
 
   - TypeScript
