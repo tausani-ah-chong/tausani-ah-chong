@@ -6,9 +6,8 @@
 
 - 🌱 I’m currently learning: 
 
-  - TypeScript
-  - React Native
-  - Redux Toolkit
+  - Blockchain development
+  - Solidity (Smart contracts)
 
 - 📫 How to reach me: 
 
