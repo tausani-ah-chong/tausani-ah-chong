@@ -8,6 +8,7 @@
 
   - Blockchain development
   - Solidity (Smart contracts)
+  - Solana
 
 - 📫 How to reach me: 
 
