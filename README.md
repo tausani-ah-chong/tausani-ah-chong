@@ -1,4 +1,4 @@
-### Talofa Lava!🇼🇸
+### Talofa Lava! 🇼🇸
 
 ### I'm a Full Stack Software Developer 🧑‍💻 Hungry to make an impact on the World! 🌐
 
@@ -14,6 +14,7 @@
 
   - linkedIn - https://www.linkedin.com/in/tausaniahchong/
   - instagram - https://www.instagram.com/apollo_45k/
+  - twitter - https://twitter.com/APOLLO_45k
   - email - tausani93@gmail.com
 
 
