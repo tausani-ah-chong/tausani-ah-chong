@@ -1,6 +1,6 @@
-### Talofa Lava! 👋
+### Talofa Lava!🇼🇸
 
-### I'm a proud Sāmoan 🇼🇸, Full Stack Software Developer 🧑‍💻 Hungry to make an impact on the World! 🌐
+### I'm a Full Stack Software Developer 🧑‍💻 Hungry to make an impact on the World! 🌐
 
 - 😄 Pronouns: He/Him
 
@@ -8,7 +8,7 @@
 
   - Blockchain development
   - Solidity (Smart contracts)
-  - Solana
+  - NFT's on Solana - WIP: https://fresh-kicks-nft-drop.vercel.app (TODO: Make responsive for mobile)
 
 - 📫 How to reach me: 
 
