@@ -6,8 +6,8 @@
 
 - 🌱 I’m currently learning: 
 
-  - Blockchain development
-  - Solidity (Smart contracts)
+  - AWS
+  - NestJS
   - NFT's on Solana - WIP: https://fresh-kicks-nft-drop.vercel.app (TODO: Make responsive for mobile)
 
 - 📫 How to reach me: 
