@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning: 
 
   - AWS
-  - NestJS
+  - NestJS - WIP: https://github.com/tausani-ah-chong/student-service-nestjs
   - NFT's on Solana - WIP: https://fresh-kicks-nft-drop.vercel.app (TODO: Make responsive for mobile)
 
 - 📫 How to reach me: 
