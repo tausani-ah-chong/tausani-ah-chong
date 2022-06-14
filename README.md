@@ -1,7 +1,5 @@
 ### Talofa Lava! 🇼🇸
 
-### I'm a Full Stack Software Developer 🧑‍💻 Hungry to make an impact on the World! 🌐
-
 - 😄 Pronouns: He/Him
 
 - 🌱 I’m currently learning: 
