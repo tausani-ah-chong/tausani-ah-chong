@@ -15,8 +15,6 @@
   - twitter - https://twitter.com/tausani93
   - email - tausani93@gmail.com
 
-![GitHub Views](https://komarev.com/ghpvc/?username=tausani-ah-chong)
-
 
 <!--
 
