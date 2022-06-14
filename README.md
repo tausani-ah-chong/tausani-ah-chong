@@ -17,6 +17,8 @@
   - twitter - https://twitter.com/APOLLO_45k
   - email - tausani93@gmail.com
 
+![GitHub Views](https://komarev.com/ghpvc/?username=tausani-ah-chong)
+
 
 <!--
 
