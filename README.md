@@ -4,9 +4,8 @@
 
 - 🌱 I’m currently learning: 
 
-  - NextJS + Mapbox - WIP: https://github.com/tausani-ah-chong/tesla-ui-clone
-  - NFT's on Solana - WIP: https://fresh-kicks-nft-drop.vercel.app (TODO: Make responsive for mobile)
-  - NestJS - WIP: https://github.com/tausani-ah-chong/student-service-nestjs
+  - Building a ChatGPT slack bot - https://github.com/tausani-ah-chong/ask-chatgpt
+  - Reading Algorithms (4th Edition) by Robert Sedgewick & Kevin Wayne - https://www.amazon.com/gp/product/032157351X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=algs4-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=032157351X
 
 - 📫 How to reach me: 
 
