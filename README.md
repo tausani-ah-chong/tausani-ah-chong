@@ -1,11 +1,10 @@
 ### Talofa Lava! 🇼🇸
 
-- 😄 Pronouns: He/Him
+- 🛠️ I’m currently building: 
 
-- 🌱 I’m currently learning: 
-
-  - Building a ChatGPT slack bot - https://github.com/tausani-ah-chong/ask-chatgpt
-  - Reading Algorithms (4th Edition) by Robert Sedgewick & Kevin Wayne - https://www.amazon.com/gp/product/032157351X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=algs4-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=032157351X
+  - Unofficial rebrand & rebuild of my kids pre school's website - A'oga Fa'asamoa
+    - Repo: https://github.com/tausani-ah-chong/aoga-faasamoa-web-ui
+    - URL: http://aoga-faasamoa-web-ui-s3.s3-website-ap-southeast-2.amazonaws.com/
 
 - 📫 How to reach me: 
 
